@@ -1,3 +1,3 @@
-module github.com/companyzero/gopus
+module github.com/Carmen-Shannon/gopus
 
-go 1.16
+go 1.22.3
